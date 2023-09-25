@@ -1,0 +1,1 @@
+Placeholder file to display the structure of the ./result folder.
